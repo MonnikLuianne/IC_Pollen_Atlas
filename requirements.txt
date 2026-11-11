@@ -1,0 +1,8 @@
+# Notebooks (Google Colab / Kaggle) — PyTorch e torchvision já vêm instalados
+timm
+openpyxl
+pandas
+numpy
+scikit-learn
+scipy
+pillow
